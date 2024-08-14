@@ -1,0 +1,27 @@
+body {
+  color: blue;
+  background-image: linear-gradient(#468585, #50b498, #9cdba6, #def9c4);
+}
+ul {
+  list-style-type: circle;
+}
+li {
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+}
+img {
+  width: 350px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border-radius: 20%;
+  transition:  transform 1s ease-in .1s;
+}
+ 
+p{
+  margin-right: 20px;
+}
+
+img:hover{
+transform:scale(1.2);
+}

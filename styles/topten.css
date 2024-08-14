@@ -1,0 +1,21 @@
+body{
+    background-image:linear-gradient( #A7E6FF,#3ABEF9,#3572EF,#050C9C)
+}
+p{
+    font-family: "DM Sans", sans-serif;
+     margin-right: 20px; padding-right: 20%;
+}
+li{
+    font-family: "DM Sans", sans-serif;
+    font-size: 20px; 
+    font-weight: bold;
+}
+h1{
+    font-family: "Playwrite AR", cursive;
+
+transition: transform 2s linear .1s;
+}
+
+h1:hover{
+ transform: translateX( 40%)
+}

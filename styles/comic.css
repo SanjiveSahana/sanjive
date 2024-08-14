@@ -1,0 +1,38 @@
+.anime {
+  width: 37%;
+  border-radius: 20px;
+}
+.dd {
+  background-image: linear-gradient(#758694, #160db8);
+  color: white;
+}
+img {
+  width: 100%;
+}
+.negi {
+  background-image: linear-gradient(#4f1787, #03346e);
+  color: azure;
+}
+
+.Naruto {
+  background-image: linear-gradient(#e4003a, #ff8f00);
+  color: white;
+}
+h2 {
+  text-align: center;
+  padding-top: 10px;
+}
+p {
+  padding: 10px;
+}
+.dad {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  row-gap: 26px;
+}
+
+.Itachi {
+  background-image: linear-gradient(#00224d, #980fd7);
+  color: aliceblue;
+}
